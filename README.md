@@ -14,16 +14,7 @@
 
 ## 数据格式
 
-训练数据按照jsonl格式：
-
-```jsonl
-{"instruction": "用户说的话", "output": "AI 应该回应的内容"}
-```
-
-每条数据包含两个字段：
-
-- `instruction`：用户的输入
-- `output`： AI对于这个输入的回复
+训练数据按照jsonl格式或者sharegpt格式（json）
 
 ## 使用方式
 
