@@ -90,3 +90,5 @@ If this repository feels familiar or seems like you've seen it somewhere beforeâ
 ## About this project
 
 I'm a student, and this project was developed during my spare time. As such, the initial dataset size may be relatively smallâ€”please bear with me. If you have any suggestions, ideas, or thoughts on improvements, feel free to open an issue or leave a comment. I'll periodically update and refine the dataset as time permits. Thank you all! (No harsh criticism, please~)
+
+Note: The English version is translated by AI. If there are discrepancies between the English and Chinese versions, please refer to the Chinese version as the authoritative source.
