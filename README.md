@@ -18,7 +18,7 @@
 
 ## 使用方式
 
-可直接用于 LLaMA-Factory 微调或别的支持这个格式的微调工具。建议同时使用两个文件（jsonl和json）进行微调，这样效果更好，json文件能提供更强大的上下文情景能力。
+可直接用于 LLaMA-Factory 微调或别的支持这个格式的微调工具。建议同时使用两个文件（jsonl和json）进行微调，train.jsonl 提供多样化的对话场景，train_json.json 提供更深入的上下文互动，这样效果更好。
 
 ## 许可证
 
@@ -64,8 +64,7 @@ The training data is available in either JSONL or ShareGPT (JSON) format.
 
 ## Usage
 
-Can be directly used with LLaMA-Factory or other fine-tuning tools that support these formats.It’s recommended to use both files (jsonl and json) for fine-tuning at the same time, as this works better. The json file can provide stronger contextual capabilities.
-
+Can be directly used with LLaMA-Factory or other fine-tuning tools that support these formats.train.jsonl offers a variety of conversation scenarios, while train_json.json provides deeper contextual interactions
 ## License
 
 This dataset is released under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license, allowing sharing and modification, but not for commercial purposes.
