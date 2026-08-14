@@ -18,7 +18,7 @@
 
 ## 使用方式
 
-可直接用于 LLaMA-Factory 微调或别的支持这个格式的微调工具。
+可直接用于 LLaMA-Factory 微调或别的支持这个格式的微调工具。建议同时使用两个文件（jsonl和json）进行微调，这样效果更好，json文件能提供更强大的上下文情景能力。
 
 ## 许可证
 
@@ -64,7 +64,7 @@ The training data is available in either JSONL or ShareGPT (JSON) format.
 
 ## Usage
 
-Can be directly used with LLaMA-Factory or other fine-tuning tools that support these formats.
+Can be directly used with LLaMA-Factory or other fine-tuning tools that support these formats.It’s recommended to use both files (jsonl and json) for fine-tuning at the same time, as this works better. The json file can provide stronger contextual capabilities.
 
 ## License
 
