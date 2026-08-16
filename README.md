@@ -2,6 +2,10 @@
 
 用于微调中文大模型，使其更贴合情感陪伴场景的训练数据
 
+## 当前版本的loss曲线：
+<img width="844" height="587" alt="图片" src="https://github.com/user-attachments/assets/a6db5085-3cab-46c8-80d0-8d6156c28e29" />
+
+
 ## 这是个啥
 
 这是一个为中文大模型设计的微调数据集，目标是让模型学会更自然、温暖、有陪伴感的回应方式。**所有数据都由作者本人编写，不存在AI生成的数据。其中部分数据灵感来源于作者的亲身经历。**
@@ -48,6 +52,9 @@
 # Saudade-dataset
 
 Training data for fine-tuning Chinese large models to better suit emotional companionship scenarios
+
+## Current version of the loss curve:
+<img width="844" height="587" alt="图片" src="https://github.com/user-attachments/assets/a6db5085-3cab-46c8-80d0-8d6156c28e29" />
 
 ## What is this?
 
