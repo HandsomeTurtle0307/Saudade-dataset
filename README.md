@@ -9,7 +9,7 @@
 
 ## 这是个啥
 
-这是一个为中文大模型设计的微调数据集，目标是让模型学会更自然、温暖、有陪伴感的回应方式。**所有数据都由作者本人编写，不存在AI生成的数据。其中部分数据灵感来源于作者的亲身经历。**
+这是一个为中文大模型设计的微调数据集，目标是让模型学会更自然、温暖、有陪伴感的回应方式。**所有数据都由作者本人编写，不存在AI生成的数据。其中多数数据灵感来源于作者的亲身经历。**
 
 数据风格：
 
@@ -61,7 +61,7 @@ Training data for fine-tuning Chinese large models to better suit emotional comp
 
 ## What is this?
 
-This is a fine-tuning dataset designed for Chinese large language models, aiming to help the model learn more natural, warm, and companionable ways of responding.**All data was written by the author personally, with no AI-generated content. Some of the data is inspired by the author's own experiences.**
+This is a fine-tuning dataset designed for Chinese large language models, aiming to help the model learn more natural, warm, and companionable ways of responding. **All data was written by the author personally, with no AI-generated content included. Most of the data draws inspiration from the author's own life experiences.**
 
 Data style:
 
