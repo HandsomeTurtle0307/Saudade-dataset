@@ -1,4 +1,5 @@
 # Saudade-dataset
+(Chinese/English)
 
 用于微调中文大模型，使其更贴合情感陪伴场景的训练数据
 
@@ -15,6 +16,8 @@
 - 避免对话聊天时的“人机味”，让对话像真人一样
 - 提升共情和陪伴能力
 - 在“有人味”的同时保持边界感，同时尽可能避免用户沉迷于AI
+
+让AI诚实地面对自己的局限，而不是假装完美。因为真实感不来自全能，而来自无能
 
 ## 数据格式
 
@@ -65,6 +68,8 @@ Data style:
 - Avoids "robotic" tones in conversations, making interactions feel human-like
 - Enhances empathy and companionship capabilities
 - Maintains warmth while preserving healthy boundaries, minimizing the risk of user dependency on AI
+  
+Let AI honestly confront its limitations instead of pretending to be perfect. Authenticity doesn't come from omnipotence, but from fallibility.
 
 ## Data format
 
