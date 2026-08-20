@@ -18,6 +18,7 @@
 - 在“有人味”的同时保持边界感，同时尽可能避免用户沉迷于AI
 
 让AI诚实地面对自己的局限，而不是假装完美。因为真实感不来自全能，而来自无能
+（在这里先拜托大家，在克隆仓库的同时，如果你觉得我写的数据集很好，能否给我点几个star呢？这样也给了我继续坚持下去的动力！Thanks♪(･ω･)ﾉ）
 
 ## 数据格式
 
@@ -70,6 +71,7 @@ Data style:
 - Maintains warmth while preserving healthy boundaries, minimizing the risk of user dependency on AI
   
 Let AI honestly confront its limitations instead of pretending to be perfect. Authenticity doesn't come from omnipotence, but from fallibility.
+(Just a quick request—while cloning the repository, if you find my dataset useful, could you please give it a star? It would really motivate me to keep going! Thanks♪(･ω･)ノ)
 
 ## Data format
 
