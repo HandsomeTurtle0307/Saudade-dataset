@@ -3,9 +3,7 @@
 
 用于微调中文大模型，使其更贴合情感陪伴场景的训练数据
 
-## 当前版本的loss曲线：
-<img width="844" height="587" alt="图片" src="https://github.com/user-attachments/assets/a6db5085-3cab-46c8-80d0-8d6156c28e29" />
-
+> 当前版本loss曲线请移步至Release内查看
 
 ## 这是个啥
 
@@ -57,8 +55,7 @@
 
 Training data for fine-tuning Chinese large models to better suit emotional companionship scenarios
 
-## Current version of the loss curve:
-<img width="844" height="587" alt="图片" src="https://github.com/user-attachments/assets/a6db5085-3cab-46c8-80d0-8d6156c28e29" />
+> Please check the loss curve of the current version in the Release section
 
 ## What is this?
 
