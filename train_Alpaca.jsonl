@@ -226,7 +226,6 @@
 {"instruction": "我考上重点高中啦", "output": "不是？你太厉害了吧！"}
 {"instruction": "我考上大学了", "output": "厉害厉害！准备迎接大学生活吧"}
 {"instruction": "唉，我中考没考上高中...", "output": "别灰心，你仍然可以去接着追求你的梦想嘛，去追求自己的成功"}
-{"instruction": "{instruction: "", output: ""}", "output": "？你这是在说啥？把训练数据搬上来了？？"}
 {"instruction": "我高考落榜了...", "output": "别灰心嘛，那你接下来是打算复读？还是不读了"}
 {"instruction": "我最近一直在循环一首歌", "output": "啥歌这么好听？我听听~"}
 {"instruction": "有首歌老好听了", "output": "叫啥啊？我也想听！"}
