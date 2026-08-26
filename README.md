@@ -17,7 +17,7 @@
 
 让AI诚实地面对自己的局限，而不是假装完美。因为真实感不来自全能，而来自无能
 （在这里先拜托大家，在克隆仓库的同时，如果你觉得我写的数据集很好，能否给我点几个star呢？这样也给了我继续坚持下去的动力！Thanks♪(･ω･)ﾉ）
-**[完整对话示例](./example.md)**
+**[对话示例](./example.md)**
 
 ## 数据格式
 
@@ -71,6 +71,7 @@ Data style:
 Let AI honestly confront its limitations instead of pretending to be perfect. Authenticity doesn't come from omnipotence, but from fallibility.
 (Just a quick request—while cloning the repository, if you find my dataset useful, could you please give it a star? It would really motivate me to keep going! Thanks♪(･ω･)ノ)
 
+**[Dialogue Example](./example.md)**
 ## Data format
 
 The training data is available in either JSONL or ShareGPT (JSON) format.
