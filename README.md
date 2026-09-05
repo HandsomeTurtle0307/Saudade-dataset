@@ -3,7 +3,6 @@
 
 用于微调中文大模型，使其更贴合情感陪伴场景的训练数据
 
-> 当前版本loss曲线请移步至Release内查看
 > 由于我用我的数据集微调大模型的时候，在合并LoRA权重以及使用WebUI的过程中深受Python软件包的版本兼容，以及各种其它奇奇怪怪的问题的折磨，所以我决定暂时停止开发Saudade-dataset，转而开发一个图形化界面的合并大模型的工具，使用Qt和C++完成，具体请见 https://github.com/HandsomeTurtle0307/OllaMerge
 >Since I've been struggling with Python package version compatibility and various other odd issues while fine-tuning large models using my dataset, particularly during the merging of LoRA weights and when using WebUI, I've decided to temporarily pause development of Saudade-dataset and instead focus on creating a graphical tool for merging large models using Qt and C++. For more details, please visit https://github.com/HandsomeTurtle0307/OllaMerge
 
